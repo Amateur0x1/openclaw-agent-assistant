@@ -1,0 +1,7 @@
+{
+  "id": "openclaw-agent-assistant",
+  "name": "openclaw-agent-assistant",
+  "skills": [
+    "openclaw-agent-skill"
+  ]
+}
